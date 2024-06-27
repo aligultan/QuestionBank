@@ -25,7 +25,7 @@ Question Bank is a modern online education platform designed to help students pr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/question-bank.git
+    git clone https://github.com/aligultan/QuestionBank.git
     ```
 2. Navigate to the project directory:
     ```bash
