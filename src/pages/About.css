@@ -1,0 +1,30 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('../images/image3.png') no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.about-card {
+  max-width: 800px;
+  padding: 40px;
+  background: rgba(255, 255, 255, 0.2); 
+  backdrop-filter: blur(7px); 
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.about-card h2 {
+  margin-bottom: 24px;
+  color: white; 
+}
+
+.about-card p {
+  font-size: 18px;
+  color: white; 
+}

@@ -1,0 +1,37 @@
+
+
+.results-container {
+  padding: 20px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  min-height: 100vh;
+}
+
+.results-title {
+  text-align: center;
+  color: #333333;
+  margin-bottom: 24px;
+}
+
+.results-table .ant-table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.results-chart-card {
+  margin-top: 40px;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.chart-title {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.chart-container {
+  position: relative;
+  height: 400px; 
+  width: 100%; 
+}
